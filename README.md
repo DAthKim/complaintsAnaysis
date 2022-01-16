@@ -7,6 +7,8 @@ Analysis of complaints
 - 11 parts is here
 - make wordcloud by quater, parts(question, request, suggest)
 # Characteristic
-- wordcloud
+- wordcloud by python
+- language : python
+- tool : Google colab
 # Quick view
 - please image here
